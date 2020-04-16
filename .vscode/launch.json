@@ -2,9 +2,24 @@
 	"configurations": [
 		{
 			"type": "java",
+			"name": "CodeLens (Launch) - Solution1",
+			"request": "launch",
+			"mainClass": "Solution1",
+			"projectName": "leetcode-course_c167745e"
+		},
+		{
+			"type": "java",
 			"name": "CodeLens (Launch) - Solution",
 			"request": "launch",
-			"mainClass": "Solution"
+			"mainClass": "Solution",
+			"projectName": "leetcode-course_c167745e"
+		},
+		{
+			"type": "java",
+			"name": "CodeLens (Launch) - ReverseIntegerSolution",
+			"request": "launch",
+			"mainClass": "ReverseIntegerSolution",
+			"projectName": "leetcode-course_c167745e"
 		}
 	]
 }
